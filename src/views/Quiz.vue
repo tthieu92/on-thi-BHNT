@@ -104,20 +104,20 @@ function onTouchEnd(e){
 }
 
 // keyboard & number shortcuts
-function onKey(e){
-  if(e.key === 'ArrowRight'){ transitionName.value='slide-left'; next(); e.preventDefault() }
-  else if(e.key === 'ArrowLeft'){ transitionName.value='slide-right'; prev(); e.preventDefault() }
-  else if(e.key === 'Enter'){ if(!submitted.value) finish(); else reset(); e.preventDefault() }
-  else {
-    const key = e.key
-    if(!submitted.value && /^[1-5]$/.test(key)){
-      const idx = Number(key) - 1
-      if(currentQuestion.value && idx < currentQuestion.value.options.length){
-        selectOption(idx)
-      }
-    }
-  }
-}
+// function onKey(e){
+//   if(e.key === 'ArrowRight'){ transitionName.value='slide-left'; next(); e.preventDefault() }
+//   else if(e.key === 'ArrowLeft'){ transitionName.value='slide-right'; prev(); e.preventDefault() }
+//   else if(e.key === 'Enter'){ if(!submitted.value) finish(); else reset(); e.preventDefault() }
+//   else {
+//     const key = e.key
+//     if(!submitted.value && /^[1-5]$/.test(key)){
+//       const idx = Number(key) - 1
+//       if(currentQuestion.value && idx < currentQuestion.value.options.length){
+//         selectOption(idx)
+//       }
+//     }
+//   }
+// }
 
 // lifecycle: load data and register listeners
 onMounted(async ()=>{
