@@ -31,10 +31,16 @@
           </button>
         </div>
 
-        <div class="actions">
-          <button class="btn ghost" @click="prev" :disabled="currentIndex===0">Prev</button>
-          <button class="btn" @click="onPrimaryClick">{{ primaryLabel }}</button>
-        </div>
+        <div class="actions-row">
+            <button class="btn ghost" @click="prev" :disabled="currentIndex===0">Prev</button>
+            <button class="btn ghost" @click="next" :disabled="currentIndex===questions.length-1">Next</button>
+          </div>
+
+          <div class="primary-action">
+            <button class="btn primary" style="width: 100%; margin-top: 10px;" @click="submitted ? reset() : finish()">
+              {{ primaryLabel }}
+            </button>
+          </div>
       </div>
 
       <div v-if="submitted" class="result-box">
@@ -48,7 +54,7 @@
           <div v-for="w in wrongList" :key="w.index" class="wrong-item">
             <div class="w-q"><strong>Câu {{ w.index }}:</strong> {{ w.question }}</div>
             <div class="w-ans">Đáp án bạn chọn: <strong>{{ showOpt(w.chosen) }}</strong></div>
-            <div class="w-correct">Đáp án đúng: <strong>{{ showOpt(w.correct) }}</strong></div>
+            <div class="w-correct">Đáp án đúng: <strong>{{ showCorrect(w.index, w.correct) }}</strong></div>
           </div>
         </div>
       </div>
@@ -110,8 +116,9 @@ function optionClass(idx){
     return ''
   }
 }
-function next(){ if (currentIndex.value < questions.value.length - 1) currentIndex.value++ }
-function prev(){ if (currentIndex.value > 0) currentIndex.value-- }
+
+function next(){ if(currentIndex.value < questions.value.length - 1){ currentIndex.value++ }}
+function prev(){ if(currentIndex.value > 0){ currentIndex.value-- }}
 
 function finish(){
   let c=0; const wrong=[]
@@ -124,18 +131,32 @@ function finish(){
   score.value = c; submitted.value = true; wrongList.value = wrong
 }
 
-const primaryLabel = computed(()=>{ if (!submitted.value) return currentIndex.value === questions.value.length - 1 ? 'Nộp bài' : 'Tiếp theo'; return 'Làm lại' })
-function onPrimaryClick(){ if (!submitted.value){ if (currentIndex.value === questions.value.length - 1) finish(); else next() } else { answers.value = Array(questions.value.length).fill(null); submitted.value = false; score.value = 0; wrongList.value = []; currentIndex.value = 0 } }
+function reset(){
+    answers.value = Array(questions.value.length).fill(null)
+    submitted.value = false
+    score.value = 0
+    wrongList.value = []
+    currentIndex.value = 0
+}
 
-const wrongList = ref([])
+const primaryLabel = computed(()=> submitted.value ? 'Làm lại' : 'Nộp bài')
 const passed = computed(()=> score.value >= Math.ceil(questions.value.length * passThreshold))
+const wrongList = ref([])
+
 
 function showOpt(idx){
-  if (idx === null || idx === undefined) return '(Không chọn)'
-  return idx === null ? '(Không chọn)' : (letter(idx) + '. ' + (questions.value[0] && questions.value[0].options[idx] ? questions.value[0].options[idx] : ''))
+    if(idx === null || idx === undefined) return '(Không chọn)'
+    return idx === null ? '(Không chọn)' : (letter(idx) + '. ' + (questions.value[0] && questions.value[0].options[idx] ? questions.value[0].options[idx] : ''))
+}
+function showCorrect(index, idx){
+    if(idx === null || idx === undefined) return '(Không chọn)'
+    return idx === null ? '(Không chọn)' : (letter(idx) + '. ' + (questions.value[index-1] && questions.value[index-1].options[idx] ? questions.value[index-1].options[idx] : ''))
 }
 </script>
 
 <style scoped>
 .center{ text-align:center; color:var(--muted) }
+.actions-row{ display:flex; gap:10px; margin-top:12px }
+.primary-action{ margin-top:10px ; width:100% }
+btn primary {width: 100%;}
 </style>
