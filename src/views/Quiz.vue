@@ -38,7 +38,9 @@
           </div>
 
           <div class="primary-action">
-            <button class="btn primary" @click="onPrimaryClick">{{ primaryLabel }}</button>
+            <button class="btn primary" @click="submitted ? reset() : finish()">
+              {{ primaryLabel }}
+            </button>
           </div>
         </div>
       </transition>
@@ -123,7 +125,7 @@ onMounted(async ()=>{
     try {
         const res = await fetch('/questions.json')
         const data = await res.json()
-        const chunkSize = 60
+        const chunkSize = 40
         const exams = []
         for(let i=0;i<data.length;i+=chunkSize) exams.push(data.slice(i,i+chunkSize))
         const idx = Math.max(1, examId) - 1
@@ -183,5 +185,5 @@ function showOpt(idx){
 <style scoped>
 .center{ text-align:center; color:var(--muted) }
 .actions-row{ display:flex; gap:10px; margin-top:12px }
-.primary-action{ margin-top:10px }
+.primary-action{ margin-top:10px ; width:100% }
 </style>
