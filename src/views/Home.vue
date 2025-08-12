@@ -8,7 +8,7 @@
     <div v-else class="exam-grid">
       <button v-for="i in numExams" :key="i" class="exam-btn" @click="go(i)">
         Đề {{ i }}
-        <div class="exam-sub">60 câu</div>
+        <div class="exam-sub">40 câu</div>
       </button>
     </div>
   </div>
@@ -28,7 +28,7 @@ onMounted(async ()=>{
     const res = await fetch('/questions.json')
     const data = await res.json()
     questions.value = data
-    numExams.value = Math.ceil(data.length / 60)
+    numExams.value = Math.ceil(data.length / 40)
   } catch(e){
     console.error(e)
   } finally {
