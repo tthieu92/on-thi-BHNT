@@ -1,7 +1,7 @@
 <template>
   <div class="home-card">
     <h2>Chọn bộ đề</h2>
-    <p class="small muted">Tự động chia toàn bộ danh sách câu thành các đề (mỗi đề 60 câu)</p>
+    <p class="small muted">Tự động chia toàn bộ danh sách câu thành các đề (mỗi đề 40 câu)</p>
 
     <div v-if="loading" class="center">Đang tải...</div>
 
