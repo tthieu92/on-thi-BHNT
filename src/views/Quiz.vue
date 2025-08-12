@@ -76,7 +76,7 @@ onMounted(async () => {
   try {
     const res = await fetch('/questions.json')
     const data = await res.json()
-    const chunkSize = 60
+    const chunkSize = 40
     const exams = []
     for (let i=0;i<data.length;i+=chunkSize) exams.push(data.slice(i,i+chunkSize))
     const idx = Math.max(1, examId) - 1
