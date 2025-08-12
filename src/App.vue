@@ -1,7 +1,7 @@
 <template>
   <div class="app-shell">
     <header class="topbar">
-      <h1>Thi Thử Trực Tuyến</h1>
+      <h1>Thi Thử Bảo Hiểm Trực Tuyến</h1>
       <p class="subtitle">Chọn đề để bắt đầu — không cần đăng nhập</p>
     </header>
     <main class="main">
