@@ -1,11 +1,12 @@
 <template>
   <div class="quiz-card">
-    <div class="progress-row">
+    <div class="quiz-header">
+      <button class="home-btn" @click="router.push('/')">🏠</button>
       <div class="progress-info">Đề: <span class="muted">{{ examId }}</span></div>
       <div class="progress-bar" role="progressbar" :aria-valuenow="progressPercent">
         <div class="progress-fill" :style="{ width: progressPercent + '%' }"></div>
       </div>
-      <div class="progress-info right">{{ currentIndex + 1 }}/{{ questions.length }}</div>
+      <div class="progress-info">{{ currentIndex + 1 }}/{{ questions.length }}</div>
     </div>
 
     <div v-if="loading" class="center">Đang tải câu hỏi...</div>
@@ -155,6 +156,45 @@ function showCorrect(index, idx){
 </script>
 
 <style scoped>
+.quiz-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  background: var(--bg);
+  z-index: 10;
+}
+.home-btn {
+  font-size: 24px;  
+  background: transparent;
+  border: 2px solid #e6e9f2;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.progress-bar {
+  flex: 1;
+  height: 10px;
+  background: linear-gradient(90deg,#e6e9f2,#f3f4f6);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg,var(--accent-start), var(--accent-end));
+  transition: width 350ms ease;
+}
+.progress-info {
+  font-size: 16px;
+  color: var(--muted);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-style: inherit;
+}
+.full-half { flex: 1; }
+.full-width { width: 100%; }
 .center{ text-align:center; color:var(--muted) }
 .actions-row{ display:flex; gap:10px; margin-top:12px }
 .primary-action{ margin-top:10px ; width:100% }
