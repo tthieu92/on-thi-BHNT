@@ -1,5 +1,13 @@
 <template>
   <div class="quiz-card">
+    <!-- <div class="progress-row">
+      <button class="home-btn" @click="router.push('/')">🏠</button>
+      <div class="progress-info">Đề: <span class="muted">{{ examId }}</span></div>
+      <div class="progress-bar" role="progressbar" :aria-valuenow="progressPercent">
+        <div class="progress-fill" :style="{ width: progressPercent + '%' }"></div>
+      </div>
+      <div class="progress-info right">{{ currentIndex + 1 }}/{{ questions.length }}</div>
+    </div> -->
     <div class="quiz-header">
       <button class="home-btn" @click="router.push('/')">🏠</button>
       <div class="progress-info">Đề: <span class="muted">{{ examId }}</span></div>
@@ -169,7 +177,7 @@ function showCorrect(index, idx){
 .home-btn {
   font-size: 24px;  
   background: transparent;
-  border: 2px solid #e6e9f2;
+  border: 1px solid #e6e9f2;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -187,11 +195,10 @@ function showCorrect(index, idx){
   transition: width 350ms ease;
 }
 .progress-info {
-  font-size: 16px;
+  font-size: 14px;
   color: var(--muted);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 600;
-  font-style: inherit;
+  font-weight: 500;
 }
 .full-half { flex: 1; }
 .full-width { width: 100%; }
