@@ -632,7 +632,7 @@
   },
   {
     "id": 59,
-    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào đúng khi điền vào chỗ \t\t trong câu dưới đây: \"Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài có quyền kiểm tra các điều kiện bảo đảm an toàn cho \t\"",
+    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào đúng khi điền vào chỗ _____ trong câu dưới đây: \"Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài có quyền kiểm tra các điều kiện bảo đảm an toàn cho _____\"",
     "options": [
       "Đối tượng bảo hiểm.",
       "Người được bảo hiểm.",
@@ -1039,7 +1039,7 @@
   },
   {
     "id": 97,
-    "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn phải bồi thường, trả tiền bảo hiểm cho bên mua bảo hiểm kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm (trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm) là: 15 ngày\tB. 30 ngày",
+    "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn phải bồi thường, trả tiền bảo hiểm cho bên mua bảo hiểm kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm (trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm) là:",
     "options": [
       "15 ngày.",
       "30 ngày",
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 118,
-    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào dưới đây đúng nhất khi điền vào chỗ \ttrong câu sau: \"Sự kiện bảo hiểm là \tdo các bên thỏa thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào dưới đây đúng nhất khi điền vào chỗ ___ trong câu sau: \"Sự kiện bảo hiểm là ___ do các bên thỏa thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
     "options": [
       "Sự kiện",
       "Sự kiện khách quan",
@@ -1517,7 +1517,7 @@
   },
   {
     "id": 141,
-    "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, đáp án nào đúng khi điền vào chỗ \tdưới đây: \"\tlà số tiền mà bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm để bảo hiểm cho tài sản và thiệt hại trên cơ sở yêu cầu của bên mua bảo hiểm\".",
+    "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, đáp án nào đúng khi điền vào chỗ _____ dưới đây: \" ____là số tiền mà bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm để bảo hiểm cho tài sản và thiệt hại trên cơ sở yêu cầu của bên mua bảo hiểm\".",
     "options": [
       "Phí bảo hiểm",
       "Số tiền bồi thường",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 157,
-    "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng điền vào chỗ \t trong câu sau: \"Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, \t, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm\".",
+    "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng điền vào chỗ ___ trong câu sau: \"Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, ___, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm\".",
     "options": [
       "Bên mua bảo hiểm",
       "Đối tượng",
@@ -1826,15 +1826,15 @@
   },
   {
     "id": 169,
-    "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng điền vào chỗ",
+    "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng điền vào chỗ ____ của câu sau: \"Tổng số tiền bồi thường của các hợp đồng bảo hiểm ____ giá trị thiệt hại thực tế của tài sản\".",
     "options": [
-      "của câu sau: \"Tổng số tiền bồi thường của các hợp đồng bảo hiểm \t giá trị thiệt hại thực tế của tài sản\".",
+      "",
       "Luôn đúng bằng",
       "Luôn ít hơn",
       "Không vượt quá",
       "Có thể vượt quá"
     ],
-    "correctIndex": 4
+    "correctIndex": 3
   },
   {
     "id": 170,
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 245,
-    "question": "Theo Luật Kinh doanh bảo hiểm, Trong bảo hiểm tài sản, đáp án nào đúng khi điền vào chỗ \tdưới đây: \"Trường hợp xảy ra tổn thất, \tkhông được từ bỏ tài sản được bảo hiểm và phải áp dụng các biện pháp cần thiết mà khả năng cho phép để ngăn chặn hoặc giảm thiểu tổn thất, trừ trường hợp pháp luật có quy định khác hoặc các bên có thỏa thuận khác\".",
+    "question": "Theo Luật Kinh doanh bảo hiểm, Trong bảo hiểm tài sản, đáp án nào đúng khi điền vào chỗ ___ dưới đây: \"Trường hợp xảy ra tổn thất, ___ không được từ bỏ tài sản được bảo hiểm và phải áp dụng các biện pháp cần thiết mà khả năng cho phép để ngăn chặn hoặc giảm thiểu tổn thất, trừ trường hợp pháp luật có quy định khác hoặc các bên có thỏa thuận khác\".",
     "options": [
       "Doanh nghiệp bảo hiểm",
       "Người thu hưởng",
@@ -2945,7 +2945,7 @@
       "Munich Re sau đây là đúng nhất?",
       "Từ khi bắt đầu công việc lắp đặt tại công trường hoặc sau khi các hạng mục được nêu trong HĐBH được dỡ xuống công trường và tiếp tục cho đến ngay sau khi bàn giao hoặc ngay sau khi hoạt động chạy thử không tải hoặc có tải đầu tiên kết thúc, áp dụng với thời điểm nào xảy ra trước, nhưng thời gian chạy thử không vượt quá 4 tuần (trừ khi có thỏa thuận khác)",
       "Từ khi bắt đầu công việc lắp đặt hoặc sau khi các hạng mục được bảo hiểm được dỡ xuống công trường cho đến khi bàn giao và đưa vào sử dụng",
-      "Nếu phần hạng mục nào của máy móc/ thiết bị đã được chạy thử và/ hoặc được đưa vào hoạt động hay bàn giao thì bảo hiểm cũng kết thúc đối với những phần hạng mục cụ thể đó, nhưng không muộn hơn ngày kết thúc được ghi trong HĐBH (trừ khi được gia hạn tiếp nếu công ty bảo hiểm đồng ý trước bằng văn bản)",
+      "Nếu phần hạng mục nào của máy móthiết bị đã được chạy thử và/ hoặc được đưa vào hoạt động hay bàn giao thì bảo hiểm cũng kết thúc đối với những phần hạng mục cụ thể đó, nhưng không muộn hơn ngày kết thúc được ghi trong HĐBH (trừ khi được gia hạn tiếp nếu công ty bảo hiểm đồng ý trước bằng văn bản)",
       "A, C đúng",
       "B, C đúng"
     ],
@@ -3055,7 +3055,8 @@
     "options": [
       "Ngay khi người được bảo hiểm gây ra thiệt hại cho người thứ ba.",
       "Người thứ ba yêu cầu người được bảo hiểm bồi thường do có hành vi gây thiệt hại cho người thứ ba trong thời hạn bảo hiểm.",
-      "A, B đúng\tD. A, B sai"
+      "A, B đúng",
+			"A, B sai"
     ],
     "correctIndex": 2
   },
@@ -3170,15 +3171,14 @@
   },
   {
     "id": 293,
-    "question": "Bên thứ ba trong bảo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng",
+    "question": "Bên thứ ba trong bảo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng là:",
     "options": [
-      "là:",
       "Người được bảo hiểm.",
       "Bên mua bảo hiểm.",
       "Doanh nghiệp bảo hiểm.",
       "Nhà dân cạnh công trình xây dựng được bảo hiểm"
     ],
-    "correctIndex": 5
+    "correctIndex": 4
   },
   {
     "id": 294,
@@ -3226,31 +3226,32 @@
   },
   {
     "id": 298,
-    "question": "Nhà máy sản xuất ổ cắm điện và biến áp gia đình mua bảo hiểm trách nhiệm công cộng và bảo hiểm trách nhiệm sản phẩm. Khách hàng A đến thăm phòng triển lãm sản phẩm tại nhà máy. Trong quá trình xem hàng và thao tác trên sản phẩm, khách hàng bị điện giật do sản phẩm bị rò điện. Trách nhiệm pháp lý phát sinh của nhà máy sản xuất",
+    "question": "Nhà máy sản xuất ổ cắm điện và biến áp gia đình mua bảo hiểm trách nhiệm công cộng và bảo hiểm trách nhiệm sản phẩm. Khách hàng A đến thăm phòng triển lãm sản phẩm tại nhà máy. Trong quá trình xem hàng và thao tác trên sản phẩm, khách hàng bị điện giật do sản phẩm bị rò điện. Trách nhiệm pháp lý phát sinh của nhà máy sản xuất đối với khách hàng thuộc:",
     "options": [
-      "đối với khách hàng thuộc:",
       "Hợp đồng bảo hiểm trách nhiệm công cộng.",
       "Hợp đồng bảo hiểm trách nhiệm sản phẩm.",
       "Hợp đồng bảo hiểm trách nhiệm nghề nghiệp.",
       "Không thuộc hợp đồng bảo hiểm nào."
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": 299,
     "question": "Theo sản phẩm bảo hiểm trách nhiệm nghề nghiệp kỹ sư tư vấn thiết kế xây dựng, người được bảo hiểm có thể vừa là người tư vấn thiết kế vừa là người xây/lắp không:",
     "options": [
-      "Có.\tB. Không."
+      "Có."
+			"Không."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": 300,
     "question": "Đối với bảo hiểm trách nhiệm nghề nghiệp kiến trúc sư, kỹ sư tư vấn, khi tổn thất phát sinh do lỗi thiết kế, lỗi thi công được phát hiện sau thời điểm kết thúc thời hạn bảo hiểm thì tổn thất đó có thuộc trách nhiệm bảo hiểm không:",
     "options": [
-      "Có.\tB. Không."
+      "Có."
+			"Không."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": 301,
@@ -3590,8 +3591,9 @@
   },
   {
     "id": 330,
-    "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai:A. Đại lý bảo hiểm có nghĩa vụ tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm",
+    "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai:",
     "options": [
+			"Đại lý bảo hiểm có nghĩa vụ tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
       "Đại lý bảo hiểm có quyền khuyến mại khách hàng dưới hình thức như giảm phí bảo hiểm, hoàn phí bảo hiểm",
       "Đại lý bảo hiểm có nghĩa vụ tham dự các khóa đào tạo, cập nhật kiến thức do doanh nghiệp bảo hiểm tổ chức",
       "Đại lý bảo hiểm được doanh nghiệp bảo hiểm ủy quyền thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm"
@@ -3711,10 +3713,12 @@
     "id": 341,
     "question": "Theo Luật Kinh doanh bảo hiểm, cá nhân đã được cấp chứng chỉ đại lý bảo hiểm nhưng không hoạt động đại lý bảo hiểm trong thời hạn bao lâu phải thực hiện việc thi chứng chỉ đại lý bảo hiểm mới trước khi hoạt động đại lý?",
     "options": [
-      "6 tháng\tB. 1 năm",
-      "2 năm\tD. 3 năm"
+      "6 tháng"
+			"1 năm",
+      "2 năm",
+			"3 năm"
     ],
-    "correctIndex": 2
+    "correctIndex": 4
   },
   {
     "id": 342,
@@ -3793,7 +3797,7 @@
   },
   {
     "id": 349,
-    "question": "Chọn phương án đúng điền vào chỗ \t: \"Theo Luật Kinh doanh bảo hiểm, trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm thì \t\tphải chịu trách nhiệm thực hiện các nghĩa vụ theo thỏa thuận trong hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết\".",
+    "question": "Chọn phương án đúng điền vào chỗ ____: \"Theo Luật Kinh doanh bảo hiểm, trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm thì ______phải chịu trách nhiệm thực hiện các nghĩa vụ theo thỏa thuận trong hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết\".",
     "options": [
       "Doanh nghiệp bảo hiểm",
       "Đại lý bảo hiểm",
@@ -4168,9 +4172,10 @@
       "Giải thích cho bên mua bảo hiểm về điều kiện, điều khoản bảo hiểm; quyền, nghĩa vụ của bên mua bảo hiểm.",
       "Yêu cầu bên mua bảo hiểm cung cấp đầy đủ thông tin liên quan đến giao kết hợp đồng",
       "Phối hợp với bên mua bảo hiểm để giải quyết yêu cầu của người thứ ba đòi bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm khi xảy ra sự kiện bảo hiểm.",
-      "A, B đúng.\tE. A,C đúng."
+      "A, B đúng.",
+			"A,C đúng."
     ],
-    "correctIndex": 4
+    "correctIndex": 5
   },
   {
     "id": 384,
@@ -4463,7 +4468,10 @@
     "id": 411,
     "question": "Theo quy định hoa hồng tối đa cho đại lý phi nhân thọ là:",
     "options": [
-      "20%\tB. 15%\tC. 10%\tD. 5%"
+      "20%.", 
+			"15%" ,
+			"10%",
+			"5%"
     ],
     "correctIndex": 1
   },
@@ -4471,40 +4479,455 @@
     "id": 412,
     "question": "Theo quy định hoa hồng tối đa cho đại lý bảo hiểm nghiệp vụ bảo hiểm nông nghiệp là:",
     "options": [
-      "20%\tB. 15%\tC. 10%\tD. 5% Câu hỏi 413. Câu phát biểu nào sau đây đúng: Nếu rủi ro A\" Hỏa hoạn\" và rủi ro E\" Hành động ác ý \" Nhất thiết có rủi ro D \"Gây rối, đình công, bế xưởng\" Không nhất thiết có rủi ro D \"Gây rối, đình công, bế xưởng\" Câu hỏi 414. Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây đúng nhất về bảo hiểm sức khỏe? Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Bảo hiểm y tế Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Kinh doanh bảo hiểm Bảo hiểm sức khỏe là bảo hiểm không bắt buộc có số tiền bảo hiểm linh hoạt tùy theo nhu cầu của người tham gia bảo hiểm Câu hỏi 415. Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng \tngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó. 90 ngày. 120 ngày. 150 ngày. 180 ngày Câu hỏi 416. Đối với Văn phòng đại diện nước ngoài tại Việt Nam, sau thời hạn hoạt động của văn phòng đại diện nước ngoài tại Việt Nam thì có được gia hạn không? Có Không Câu hỏi 417. Đối với Bảo hiểm Sức khỏe, Người thụ hưởng do ai chỉ định? Người được bảo hiểm Bên mua bảo hiểm Doanh nghiệp bảo hiểm Không có đáp án đúng Câu hỏi 418. Đối với Hợp đồng bảo hiểm nhóm, ai là người có quyền chỉ định người thụ hưởng cho trường hợp chết của người được bảo hiểm? Bên mua bảo hiểm Doanh nghiệp bảo hiểm Người được bảo hiểm Doanh nghiệp bảo hiểm Câu hỏi 419. Việc xác định tình trạng mất hoàn toàn và vĩnh viễn chức năng của bộ phận cơ thể được thực hiện sau bao nhiêu ngày tính từ ngày xảy ra Tai nạn hoặc từ ngày bệnh được chẩn đoán xác định. 90 ngày 120 ngày 180 ngày 190 ngày Câu hỏi 420. Dịch vụ phụ trợ bảo hiểm bao gồm? Tư vấn, đánh giá rủi ro bảo hiểm Tính toán bảo hiểm, giám định tổn thất bảo hiểm Hỗ trợ giải quyết bồi thường bảo hiểm. A & C đúng A, B & C đúng Câu hỏi 421. Tư vấn là hoạt động: Cung cấp dịch vụ tư vấn về chương trình bảo hiểm, sản phẩm bảo hiểm Quản trị rủi ro bảo hiểm Đề phòng, hạn chế tổn thất bảo hiểm. A và C đúng A, B và C đúng Câu hỏi 422. Tổ chức cung cấp bảo hiểm vi mô bao gồm: Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thành lập và hoạt động tại Việt Nam; Tổ chức tương hỗ cung cấp bảo hiểm vi mô thành lập và hoạt động tại Việt Nam. A & B đúng A & B sai Câu hỏi 423. Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm chỉ được đầu tư ra nước ngoài dưới các hình thức sau đây: Thành lập hoặc góp vốn thành lập, góp vốn, mua cổ phần, mua phần vốn góp doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm ở nước ngoài; thành lập chi nhánh doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp tái bảo hiểm ở nước ngoài; mở văn phòng đại diện và hình thức hiện diện thương mại khác tại nước ngoài; Mua, bán chứng khoán, các giấy tờ có giá khác hoặc đầu tư thông qua các quỹ đầu tư chứng khoán, các định chế tài chính trung gian khác ở nước ngoài theo quy định của Chính phủ. A & B đúng A & B sai Câu hỏi 424. Phát biểu nào sau đây đúng về Quỹ dự trữ bắt buộc? Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam phải trích lập quỹ dự trữ bắt buộc để bổ sung vốn chủ sở hữu và bảo đảm khả năng thanh toán. Quỹ dự trữ bắt buộc được trích hằng năm theo tỷ lệ 05% lợi nhuận sau thuế cho đến khi bằng mức tối đa theo quy định của Chính phủ. Ngoài quỹ dự trữ bắt buộc, doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam có thể lập các quỹ dự trữ khác từ lợi nhuận sau thuế của năm tài chính theo quy định tại điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, quy chế tổ chức và hoạt động của chi nhánh nước ngoài tại Việt Nam. A & C đúng A, B & C đúng Câu hỏi 425. Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận trong hợp đồng bảo hiểm, bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thực hiện một trong các nội dung sau đây: Giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; tăng số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; kéo dài thời hạn bảo hiểm; Mở rộng phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm. Thu hẹp phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm. A & B đúng A, B & C đúng Câu hỏi 426. Theo quy định pháp luật hiện hành, mức vốn điều lệ quy định cho Doanh nghiệp Bảo hiểm (theo thứ tự: Phi Nhân thọ, Nhân thọ) là: 70; 140 tỷ đồng 400; 700 tỷ đồng 750; 400 tỷ đồng 400; 750 tỷ đồng Câu hỏi 427. Ông A đầu tư chứng khoán, nếu mã cổ phiếu giảm thì gọi là rủi ro gì? Rủi ro có đảm bảo Rủi ro Thuần túy Rủi ro Đầu cơ Rủi ro chung Câu hỏi 428. Văn phòng đại diện nước ngoài tại Việt Nam có ít nhất bao nhiêu Đại lý Bảo hiểm? 100 200 250 Không có Đại lý Câu hỏi 429. Rủi ro ngẫu nhiên là gì? Bất ngờ Không lường trước được về không gian, thời gian, cũng như mức độ nghiêm trọng Cả A và B đều đúng Câu hỏi 430. Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm cháy nổ tự nguyện là:",
-      "20%\tB. 15%\tC. 10%\tD. 5% Câu hỏi 431. Theo Pháp luật kinh doanh bảo hiểm, thương tật toàn bộ vĩnh viễn của trường hợp mất 2/6 tay, chân tính như thế nào: Với tay từ cổ tay trở lên, chân từ mắc cá chân trở lên Với tay từ khủy tay trở lên, chân từ đầu gối chân trở lên Với tay từ bàn tay trở lên, chân từ bàn chân trở lên Câu hỏi 432. Theo luật kinh doanh bảo hiểm, Hợp đồng bảo hiểm nhóm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài để bảo hiểm cho những người được bảo hiểm thuộc nhóm tham gia bảo hiểm trong cùng một hợp đồng bảo hiểm, chọn Phương án đúng: Nhóm tham gia hợp đồng bảo hiểm phải là nhóm được hình thành không phải vì mục đích tham gia bảo hiểm Nhóm tham gia hợp đồng bảo hiểm phải là nhóm đã được hình thành không phải vì mục đích tham gia bảo hiểm Câu hỏi 433. Theo bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe trường hợp xảy ra thiệt hại về thân thể, tính mạng do tai nạn sẽ bồi thường: Người ngồi trên xe khi đang ở trên xe, lên xuống xe trong quá trình xe tham gia giao thông Lái xe, phụ xe liên quan trực tiếp đến việc sử dụng chiếc xe đó. A và B đúng A và B sai Câu hỏi 434. DNBH phi nhân thọ được phép kinh doanh bảo hiểm sức khỏe có thời hạn: Dưới 1 năm Từ 1 năm trở xuống Từ 1 năm trở lên Trên 5 năm Câu hỏi 435. Công trường không là đối tượng phải mua bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng: Công trình, hạng mục công trình có ảnh hưởng lớn đến an toàn, lợi ích cộng đồng Công trình đầu tư xây dựng có ảnh hưởng xấu đến môi trường Công trình kỹ thuật nông nghiệp Giao thông công cộng Câu hỏi 436. Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm trách nhiệm là:",
-      "20%\tB. 15%\tC. 10%\tD. 5% Câu hỏi 437. Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm hàng hóa là:",
-      "20%\tB. 15%\tC. 10%\tD. 5% Câu hỏi 438. Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản do xe gắn máy (kể cả xe máy điện) và các loại xe tương tự theo quy định:",
-      "200 triệu\tB. 150 triệu\tC. 100 triệu\tD. 50 Triệu Câu hỏi 439. Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm: Trong vòng 1h\tC. Trong vòng 24h Trong vòng 12h\tD. Trong vòng 48h Câu hỏi 440. Trong bảo hiểm tài sản đơn vị rủi ro được coi là cách biệt Về mặt cấu trúc nếu ngôi nhà, bộ phận nhà hoặc kho được ngăn cách bằng tường ngăn cháy Về mặt không gian nếu giữa các ngôi nhà hoặc kho ngoài trời bằng vật liệu không cháy đảm bảo tối thiểu một khoảng cách nào đó A, B đúng A, B sai Câu hỏi 441. Những tổn thất - hậu quả mà rủi ro sẽ mang lại được tính bằng tiền, thì gọi rủi ro: Rủi ro chung\tC. Rủi ro thuần túy Rủi ro riêng\tD. Rủi ro tài chính Câu hỏi 442. Tổn thất hoặc thiệt hại do cháy đối với các thiết bị hoặc hệ thống điện được bảo hiểm theo Điều khoản Bảo hiểm Thiết bị điện 4A/4B phát sinh do hoặc gây ra bởi sự quá tải, quá áp, đoản mạch, phóng hồ quang điện, tự nung nóng hay bị rò điện vì bất kỳ nguyên nhân nào (\tcả sét đánh), điền vào chỗ trống\t: Bao gồm cả sét đánh Không bao gồm cả sét đánh Câu hỏi 443. Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm tín dụng và rủi ro tài chính là:",
-      "20%\tB. 15%\tC. 10%\tD. 5% Câu hỏi 444. Theo Luật kinh doanh bảo hiểm, các tổ chức kinh doanh bảo hiểm không bao gồm đối tượng nào sau đây: Công ty hợp danh Công ty trách nhiệm hữu hạn Hợp tác xã bảo hiểm Công ty TNHH, công ty cổ phần Câu hỏi 445. Đối tượng của hợp đồng bảo hiểm tài sản là tài sản, bao gồm: Vật có thực Tiền, giấy tờ trị giá được bằng tiền Các quyền tài sản A, B, C đúng Câu hỏi 446. Theo Luật kinh doanh bảo hiểm, các tổ chức kinh doanh bảo hiểm bao gồm đối tượng nào sau đây: Công ty hợp danh Tổ chức tương hỗ cung cấp bảo hiểm vi mô Công ty TNHH, công ty cổ phần A, C đúng B, C đúng Câu hỏi 447. Doanh nghiệp bảo hiểm có quyền từ chối bán bảo hiểm cháy, nổ bắt buộc trong các trường hợp sau: Cơ sở chưa được nghiệm thu về phòng cháy và chữa cháy khi xây dựng mới, cải tạo hoặc thay đổi tính chất sử dụng Cơ sở không có biên bản kiểm tra về phòng cháy và chữa cháy của cơ quan Cảnh sát phòng cháy và chữa cháy hoặc biên bản kiểm tra đã quá 01 năm tính từ thời điểm lập đến thời điểm mua bảo hiểm cháy, nổ bắt buộc Cơ sở đang bị đình chỉ hoặc tạm đình chỉ hoạt động do vi phạm nghiêm trọng các quy định về phòng cháy và chữa cháy A, B, C đúng Câu hỏi 448. Mức vốn pháp định của chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài kinh doanh bảo hiểm phi nhân thọ, bảo hiểm hàng không và bảo hiểm vệ tinh là:",
-      "400 tỷ B. 250 tỷ\tC. 500 tỷ\tD. 300 tỷ Câu hỏi 449. Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm phi nhân thọ: Được phép chi hỗ trợ đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Không được phép chi hỗ trợ Câu hỏi 450. Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm phi sức khỏe: Chi khen thưởng và chi hỗ trợ đại lý không quá 100% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính Không được phép chi hỗ trợ Câu hỏi 451. Theo quy định, thời hạn bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới? Tối thiểu là 1 năm và tối đa là 3 năm, theo luật quy định Tối thiểu là 1 năm và tối đa là 3 năm, theo loại xe cơ giới Câu hỏi 452. Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, trường hợp người được bảo hiểm bị mất hai bàn tay do tai nạn, doanh nghiệp bảo hiểm sẽ chi trả số tiền nào sau đây: 200% số tiền bảo hiểm. B. 100% số tiền bảo hiểm. C. 50% số tiền bảo hiểm. D. 20% số tiền bảo hiểm."
+      "20%", 
+			"15%",
+			"10%",
+			"5%" 
     ],
     "correctIndex": 1
   },
-  {
+	{
+    "id": 413,
+    "question": "Câu hỏi 413. Câu phát biểu nào sau đây đúng: Nếu rủi ro A\"Hỏa hoạn\" và rủi ro E \"Hành động ác ý\"",
+    "options": [ 
+		"Nhất thiết có rủi ro D \"Gây rối, đình công, bế xưởng", 
+		"Không nhất thiết có rủi ro D \"Gây rối, đình công, bế xưởng\"."
+    ],
+    "correctIndex":  1
+  },
+	{
+    "id": 414,
+    "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây đúng nhất về bảo hiểm sức khỏe?",
+    "options": [
+      "Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Bảo hiểm y tế",
+			"Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Kinh doanh bảo hiểm",
+			"Bảo hiểm sức khỏe là bảo hiểm không bắt buộc có số tiền bảo hiểm linh hoạt tùy theo nhu cầu của người tham gia bảo hiểm",
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 415,
+    "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng 	ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
+    "options": [
+      "90 ngày.",
+			"120 ngày.",
+			"150 ngày.",
+			"180 ngày"
+    ],
+    "correctIndex": 4
+  },
+	{
+    "id": 416,
+    "question": "Đối với Văn phòng đại diện nước ngoài tại Việt Nam, sau thời hạn hoạt động của văn phòng đại diện nước ngoài tại Việt Nam thì có được gia hạn không?",
+    "options": [
+      "Có",
+			"Không"
+    ],
+    "correctIndex": 1
+  },
+	{
+    "id": 417,
+    "question": "Đối với Bảo hiểm Sức khỏe, Người thụ hưởng do ai chỉ định?",
+    "options": [
+      "Người được bảo hiểm",
+			"Bên mua bảo hiểm",
+			"Doanh nghiệp bảo hiểm",
+			"Không có đáp án đúng"
+    ],
+    "correctIndex": 2
+  },
+	{
+    "id": 418,
+    "question": "Đối với Hợp đồng bảo hiểm nhóm, ai là người có quyền chỉ định người thụ hưởng cho trường hợp chết của người được bảo hiểm?",
+    "options": [
+      "Bên mua bảo hiểm",
+			"Doanh nghiệp bảo hiểm",
+			"Người được bảo hiểm",
+			"Doanh nghiệp bảo hiểm"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 419,
+    "question": "Việc xác định tình trạng mất hoàn toàn và vĩnh viễn chức năng của bộ phận cơ thể được thực hiện sau bao nhiêu ngày tính từ ngày xảy ra Tai nạn hoặc từ ngày bệnh được chẩn đoán xác định.",
+    "options": [
+      "90 ngày",
+			"120 ngày",
+			"180 ngày",
+			"190 ngày"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 420,
+    "question": "Dịch vụ phụ trợ bảo hiểm bao gồm?",
+    "options": [
+      "Tư vấn, đánh giá rủi ro bảo hiểm",
+			"Tính toán bảo hiểm, giám định tổn thất bảo hiểm",
+			"Hỗ trợ giải quyết bồi thường bảo hiểm.",
+			"A & C đúng",
+			"A, B & C đúng"
+    ],
+    "correctIndex": 5
+  },
+	{
+    "id": 421,
+    "question": "Tư vấn là hoạt động:",
+    "options": [
+      "Cung cấp dịch vụ tư vấn về chương trình bảo hiểm, sản phẩm bảo hiểm",
+			"Quản trị rủi ro bảo hiểm",
+			"Đề phòng, hạn chế tổn thất bảo hiểm.",
+			"A và C đúng",
+			"A, B và C đúng"
+    ],
+    "correctIndex": 5
+  },
+	{
+    "id": 422,
+    "question": "Tổ chức cung cấp bảo hiểm vi mô bao gồm:",
+    "options": [
+      "Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thành lập và hoạt động tại Việt Nam;",
+			"Tổ chức tương hỗ cung cấp bảo hiểm vi mô thành lập và hoạt động tại Việt Nam.",
+			"A & B đúng",
+			"A & B sai"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 423,
+    "question": "Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm chỉ được đầu tư ra nước ngoài dưới các hình thức sau đây:",
+    "options": [
+      "Thành lập hoặc góp vốn thành lập, góp vốn, mua cổ phần, mua phần vốn góp doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm ở nước ngoài; thành lập chi nhánh doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp tái bảo hiểm ở nước ngoài; mở văn phòng đại diện và hình thức hiện diện thương mại khác tại nước ngoài;",
+			"Mua, bán chứng khoán, các giấy tờ có giá khác hoặc đầu tư thông qua các quỹ đầu tư chứng khoán, các định chế tài chính trung gian khác ở nước ngoài theo quy định của Chính phủ.",
+			"A & B đúng",
+			"A & B sai"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 424,
+    "question": "Phát biểu nào sau đây đúng về Quỹ dự trữ bắt buộc?",
+    "options": [
+      "Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam phải trích lập quỹ dự trữ bắt buộc để bổ sung vốn chủ sở hữu và bảo đảm khả năng thanh toán.",
+			"Quỹ dự trữ bắt buộc được trích hằng năm theo tỷ lệ 05% lợi nhuận sau thuế cho đến khi bằng mức tối đa theo quy định của Chính phủ.",
+			"Ngoài quỹ dự trữ bắt buộc, doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam có thể lập các quỹ dự trữ khác từ lợi nhuận sau thuế của năm tài chính theo quy định tại điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, quy chế tổ chức và hoạt động của chi nhánh nước ngoài tại Việt Nam.",
+			"A & C đúng",
+			"A, B & C đúng"
+    ],
+    "correctIndex": 5
+  },
+	{
+    "id": 425,
+    "question": "Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận trong hợp đồng bảo hiểm, bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thực hiện một trong các nội dung sau đây:",
+    "options": [
+      "Giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; tăng số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; kéo dài thời hạn bảo hiểm;",
+			"Mở rộng phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm.",
+			"Thu hẹp phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm.",
+			"A & B đúng",
+			"A, B & C đúng"
+    ],
+    "correctIndex": 4
+  },
+	{
+    "id": 426,
+    "question": "Theo quy định pháp luật hiện hành, mức vốn điều lệ quy định cho Doanh nghiệp Bảo hiểm (theo thứ tự: Phi Nhân thọ, Nhân thọ) là:",
+    "options": [
+      "70; 140 tỷ đồng",
+			"400; 700 tỷ đồng",
+			"750; 400 tỷ đồng",
+			"400; 750 tỷ đồng"
+    ],
+    "correctIndex": 4
+  },
+	{
+    "id": 427,
+    "question": "Ông A đầu tư chứng khoán, nếu mã cổ phiếu giảm thì gọi là rủi ro gì",
+    "options": [
+      "Rủi ro có đảm bảo",
+			"Rủi ro Thuần túy",
+			"Rủi ro Đầu cơ",
+			"Rủi ro chung"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 428,
+    "question": "Văn phòng đại diện nước ngoài tại Việt Nam có ít nhất bao nhiêu Đại lý Bảo hiểm?",
+    "options": [
+      "100",
+			"200",
+			"250",
+			"Không có Đại lý"
+    ],
+    "correctIndex": 4
+  },
+	{
+    "id": 429,
+    "question": "Rủi ro ngẫu nhiên là gì?",
+    "options": [
+      "Bất ngờ",
+			"Không lường trước được về không gian, thời gian, cũng như mức độ nghiêm trọng",
+			"Cả A và B đều đúng"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 430,
+    "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm cháy nổ tự nguyện là:",
+    "options": [
+      "20%",
+			"15%",
+			"10%",
+			"5%"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 431,
+    "question": "Theo Pháp luật kinh doanh bảo hiểm, thương tật toàn bộ vĩnh viễn của trường hợp mất 2/6 tay, chân tính như thế nào:",
+    "options": [
+      "Với tay từ cổ tay trở lên, chân từ mắc cá chân trở lên",
+			"Với tay từ khủy tay trở lên, chân từ đầu gối chân trở lên",
+			"Với tay từ bàn tay trở lên, chân từ bàn chân trở lên"
+    ],
+    "correctIndex": 1
+  },
+	{
+    "id": 432,
+    "question": "Theo luật kinh doanh bảo hiểm, Hợp đồng bảo hiểm nhóm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài để bảo hiểm cho những người được bảo hiểm thuộc nhóm tham gia bảo hiểm trong cùng một hợp đồng bảo hiểm, chọn Phương án đúng:",
+    "options": [
+      "Nhóm tham gia hợp đồng bảo hiểm phải là nhóm được hình thành không phải vì mục đích tham gia bảo hiểm",
+			"Nhóm tham gia hợp đồng bảo hiểm phải là nhóm đã được hình thành không phải vì mục đích tham gia bảo hiểm "
+    ],
+    "correctIndex": 2
+  },
+	{
+    "id": 433,
+    "question": "Theo bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe trường hợp xảy ra thiệt hại về thân thể, tính mạng do tai nạn sẽ bồi thường:",
+    "options": [
+      "Người ngồi trên xe khi đang ở trên xe, lên xuống xe trong quá trình xe tham gia giao thông",
+			"Lái xe, phụ xe liên quan trực tiếp đến việc sử dụng chiếc xe đó.",
+			"A và B đúng",
+			"A và B sai"
+    ],
+    "correctIndex": 3
+  },
+	{
+    "id": 434,
+    "question": "DNBH phi nhân thọ được phép kinh doanh bảo hiểm sức khỏe có thời hạn:",
+    "options": [
+      "Dưới 1 năm",
+			"Từ 1 năm trở xuống",
+			"Từ 1 năm trở lên",
+			"Trên 5 năm"
+    ],
+    "correctIndex": 2
+  },
+	{
+    "id": 435,
+    "question": "Công trường không là đối tượng phải mua bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng:",
+    "options": [
+      "Công trình, hạng mục công trình có ảnh hưởng lớn đến an toàn, lợi ích cộng đồng",
+			"Công trình đầu tư xây dựng có ảnh hưởng xấu đến môi trường",
+			"Công trình kỹ thuật nông nghiệp",
+			"Giao thông công cộng"
+    ],
+    "correctIndex": 3
+  },{
+    "id": 436,
+    "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm trách nhiệm là:",
+    "options": [
+      "20%",
+			"15%",
+			"10%",
+			"5%"
+    ],
+    "correctIndex": 4
+  },
+	{
+    "id": 437,
+    "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm hàng hóa là:",
+    "options": [
+      "20%",
+			"15%",
+			"10%",
+			"5%"
+    ],
+    "correctIndex": 3
+  },{
+    "id": 438,
+    "question": "Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản do xe gắn máy (kể cả xe máy điện) và các loại xe tương tự theo quy định: ",
+    "options": [
+      "200 triệu",
+			"150 triệu",
+			"100 triệu",
+			"50 Triệu"
+    ],
+    "correctIndex": 4
+  },{
+    "id": 439,
+    "question": "Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm:",
+    "options": [
+      "Trong vòng 1h",
+			"Trong vòng 12h",
+			" Trong vòng 24h",
+			"Trong vòng 48h"
+    ],
+    "correctIndex": 3
+  },{
+    "id": 440,
+    "question": "Trong bảo hiểm tài sản đơn vị rủi ro được coi là cách biệt",
+    "options": [
+      "Về mặt cấu trúc nếu ngôi nhà, bộ phận nhà hoặc kho được ngăn cách bằng tường ngăn cháy",
+			"Về mặt không gian nếu giữa các ngôi nhà hoặc kho ngoài trời bằng vật liệu không cháy đảm bảo tối thiểu một khoảng cách nào đó ",
+			"A, B đúng",
+			"A, B sai"
+    ],
+    "correctIndex": 3
+  },{
+    "id": 441,
+    "question": "Những tổn thất - hậu quả mà rủi ro sẽ mang lại được tính bằng tiền, thì gọi rủi ro:",
+    "options": [
+      "Rủi ro chung",
+			"Rủi ro riêng",
+			"Rủi ro thuần túy",
+			"Rủi ro tài chính"
+    ],
+    "correctIndex": 4
+  },{
+    "id": 442,
+    "question": "Tổn thất hoặc thiệt hại do cháy đối với các thiết bị hoặc hệ thống điện được bảo hiểm theo Điều khoản Bảo hiểm Thiết bị điện 4A/4B phát sinh do hoặc gây ra bởi sự quá tải, quá áp, đoản mạch, phóng hồ quang điện, tự nung nóng hay bị rò điện vì bất kỳ nguyên nhân nào ( ___ cả sét đánh), điền vào chỗ trống	:",
+    "options": [
+      "Bao gồm cả sét đánh",
+			"Không bao gồm cả sét đánh"
+    ],
+    "correctIndex": 1
+  },{
+    "id": 443,
+    "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm tín dụng và rủi ro tài chính là:",
+    "options": [
+      "A. 20%",
+			"B. 15%",
+			"C. 10%",
+			"5%"
+    ],
+    "correctIndex": 3
+  },{
+    "id": 444,
+    "question": "Theo Luật kinh doanh bảo hiểm, các tổ chức kinh doanh bảo hiểm không bao gồm đối tượng nào sau đây:",
+    "options": [
+      "Công ty hợp danh",
+			"Công ty trách nhiệm hữu hạn",
+			"Hợp tác xã bảo hiểm",
+			"Công ty TNHH, công ty cổ phần"
+    ],
+    "correctIndex": 1
+  },{
+    "id": 445,
+    "question": "Đối tượng của hợp đồng bảo hiểm tài sản là tài sản, bao gồm:",
+    "options": [
+      "Vật có thực",
+			"Tiền, giấy tờ trị giá được bằng tiền",
+			"Các quyền tài sản",
+			"A, B, C đúng"
+    ],
+    "correctIndex": 4
+  },{
+    "id": 446,
+    "question": "Theo Luật kinh doanh bảo hiểm, các tổ chức kinh doanh bảo hiểm bao gồm đối tượng nào sau đây:",
+    "options": [
+      "Công ty hợp danh",
+			"Tổ chức tương hỗ cung cấp bảo hiểm vi mô",
+			"Công ty TNHH, công ty cổ phần",
+			"A, C đúng",
+			"B, C đúng"
+    ],
+    "correctIndex": 5
+  },{
+    "id": 447,
+    "question": "Doanh nghiệp bảo hiểm có quyền từ chối bán bảo hiểm cháy, nổ bắt buộc trong các trường hợp sau:",
+    "options": [
+      "Cơ sở chưa được nghiệm thu về phòng cháy và chữa cháy khi xây dựng mới, cải tạo hoặc thay đổi tính chất sử dụng",
+			"Cơ sở không có biên bản kiểm tra về phòng cháy và chữa cháy của cơ quan Cảnh sát phòng cháy và chữa cháy hoặc biên bản kiểm tra đã quá 01 năm tính từ thời điểm lập đến thời điểm mua bảo hiểm cháy, nổ bắt buộc",
+			"Cơ sở đang bị đình chỉ hoặc tạm đình chỉ hoạt động do vi phạm nghiêm trọng các quy định về phòng cháy và chữa cháy ",
+			"A, B, C đúng"
+    ],
+    "correctIndex": 4
+  },{
+    "id": 448,
+    "question": "Mức vốn pháp định của chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài kinh doanh bảo hiểm phi nhân thọ, bảo hiểm hàng không và bảo hiểm vệ tinh là:",
+    "options": [
+      "400 tỷ ",
+			"250 tỷ",
+			"500 tỷ",
+			"300 tỷ"
+    ],
+    "correctIndex": 1
+  },{
+    "id": 449,
+    "question": "Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm phi nhân thọ:",
+    "options": [
+      "Được phép chi hỗ trợ đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính",
+			"Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính",
+			"Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính ",
+			"Không được phép chi hỗ trợ"
+    ],
+    "correctIndex": 2
+  },{
+    "id": 450,
+    "question": "Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm phi sức khỏe:",
+    "options": [
+      "Chi khen thưởng và chi hỗ trợ đại lý không quá 100% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính",
+			"Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính",
+			"Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính ",
+			"Không được phép chi hỗ trợ"
+    ],
+    "correctIndex": 1
+  },{
+    "id": 451,
+    "question": "Theo quy định, thời hạn bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới? ",
+    "options": [
+      "Tối thiểu là 1 năm và tối đa là 3 năm, theo luật quy định",
+			"Tối thiểu là 1 năm và tối đa là 3 năm, theo loại xe cơ giới"
+    ],
+    "correctIndex": 2
+  },{
+    "id": 452,
+    "question": "Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, trường hợp người được bảo hiểm bị mất hai bàn tay do tai nạn, doanh nghiệp bảo hiểm sẽ chi trả số tiền nào sau đây: ",
+    "options": [
+      "200% số tiền bảo hiểm. ",
+			"100% số tiền bảo hiểm.",
+			" 50% số tiền bảo hiểm. ",
+			"20% số tiền bảo hiểm."
+    ],
+    "correctIndex": 2
+  },{
     "id": 453,
-    "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cách nên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
+    "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cách nên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không: ",
     "options": [
-      "Có. B. Không"
+      "Có",
+			"Không"
     ],
-    "correctIndex": 1
-  },
-  {
+    "correctIndex": 2
+  },{
     "id": 454,
-    "question": "Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, trường hợp người được bảo hiểm bị mù hoàn toàn hai mắt do tai nạn, doanh nghiệp bảo hiểm sẽ chi trả số tiền bảo hiểm nào sau đây?",
+    "question": "Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, trường hợp người được bảo hiểm bị mù hoàn toàn hai mắt do tai nạn, doanh nghiệp bảo hiểm sẽ chi trả số tiền bảo hiểm nào sau đây? ",
     "options": [
-      "A/ 200% số tiền bảo hiểm. B/ 100% số tiền bảo hiểm. C/ 50% số tiền bảo hiểm. D/ 20% số tiền bảo hiểm."
+      "200% số tiền bảo hiểm.",
+			"100% số tiền bảo hiểm.",
+			"50% số tiền bảo hiểm.",
+			"20% số tiền bảo hiểm."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": 455,
     "question": "Theo Luật Kinh doanh bảo hiểm, hợp đồng bảo hiểm tài sản trên giá trị là:",
     "options": [
-      "A/ Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.",
-      "B/ Hợp đồng trong đó số tiền bảo hiểm cao hơn giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.",
-      "C/ Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị trên sổ sách của tài sản được bảo hiểm tại thời điểm xảy ra tổn thất.",
-      "D/ Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị ước tính của tài sản được bảo hiểm tại thời điểm xảy ra tổn thất"
+      "Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.",
+      "Hợp đồng trong đó số tiền bảo hiểm cao hơn giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.",
+      "Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị trên sổ sách của tài sản được bảo hiểm tại thời điểm xảy ra tổn thất.",
+      "Hợp đồng trong đó số tiền bảo hiểm cao hơn giá trị ước tính của tài sản được bảo hiểm tại thời điểm xảy ra tổn thất"
     ],
     "correctIndex": 2
   },
@@ -4524,8 +4947,8 @@
     "id": 457,
     "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa vận chuyển trên xe, doanh nghiệp bảo hiểm có bồi thường cho tổn thất của hàng hóa trên xe bị mốc trong quá trình vận chuyển không:",
     "options": [
-      "A/ Có",
-      "B/ Không"
+      "Có",
+      "Không"
     ],
     "correctIndex": 2
   },
@@ -4533,10 +4956,10 @@
     "id": 458,
     "question": "Theo Luật Kinh doanh bảo hiểm, một trong các đối tượng bảo hiểm của hợp đồng bảo hiểm tài sản là:",
     "options": [
-      "A/ Trách nhiệm dân sự của người được bảo hiểm",
-      "B/ Quyền tài sản",
-      "C/ Thiệt hại do gián đoạn kinh doanh",
-      "D/ B, C đúng"
+      "Trách nhiệm dân sự của người được bảo hiểm",
+      "Quyền tài sản",
+      "Thiệt hại do gián đoạn kinh doanh",
+      "B, C đúng"
     ],
     "correctIndex": 2
   },
@@ -4544,8 +4967,8 @@
     "id": 459,
     "question": "Theo đơn bảo hiểm “Gián đoạn kinh doanh\" của Hiệp hội bảo hiểm Vương quốc Anh (ABI), hạn mức bồi thường đối với chi phí hoạt động gia tăng được bảo hiểm thuộc hạng mục Lợi nhuận gộp để khắc phục bớt sự suy giảm doanh thu do thiệt hại gây ra là:",
     "options": [
-      "A/ Không giới hạn.",
-      "B/ Số tiền được tính bằng cách lấy tỷ lệ Lợi nhuận gộp nhân với số doanh thu khôi phục lại được nhờ các chi phí hoạt động gia tăng đó."
+      "Không giới hạn.",
+      "Số tiền được tính bằng cách lấy tỷ lệ Lợi nhuận gộp nhân với số doanh thu khôi phục lại được nhờ các chi phí hoạt động gia tăng đó."
     ],
     "correctIndex": 2
   },
