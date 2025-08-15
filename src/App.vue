@@ -12,4 +12,15 @@
 </template>
 
 <script setup>
+
 </script>
+<style scoped>
+  footer {
+      margin: 0;
+      font-size: 14px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      vertical-align: auto;
+      text-align: center;
+      padding: 8px;
+  }
+</style>
