@@ -101,7 +101,7 @@ const currentIndex = ref(0)
 const answers = ref([])
 const submitted = ref(false)
 const score = ref(0)
-const passThreshold = 0.53333
+const passThreshold = 0.8
 
 // username + popup
 const username = ref(localStorage.getItem('username') || '')
