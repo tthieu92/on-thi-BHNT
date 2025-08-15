@@ -632,7 +632,7 @@
   },
   {
     "id": 59,
-    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào đúng khi điền vào chỗ _____ trong câu dưới đây: \"Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài có quyền kiểm tra các điều kiện bảo đảm an toàn cho _____\"",
+    "question": "Theo Luật Kinh doanh bảo hiểm, đáp án nào đúng khi điền vào chỗ _____ trong câu dưới đây: \"Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài có quyền kiểm tra các điều kiện bảo đảm an toàn cho _____ \"",
     "options": [
       "Đối tượng bảo hiểm.",
       "Người được bảo hiểm.",
@@ -2205,7 +2205,7 @@
   },
   {
     "id": 203,
-    "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây ra. Trách nhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
+    "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây rTrách nhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
     "options": [
       "Bên có nghĩa vụ dân sự đã cam kết trong hợp đồng mà không thực hiện hoặc thực hiện không đúng nghĩa vụ sẽ phải bồi thường cho bên kia.",
       "Hành vi gây hại không liên quan đến việc thực hiện nghĩa vụ dân sự của bất kỳ hợp đồng nào."
@@ -3239,7 +3239,7 @@
     "id": 299,
     "question": "Theo sản phẩm bảo hiểm trách nhiệm nghề nghiệp kỹ sư tư vấn thiết kế xây dựng, người được bảo hiểm có thể vừa là người tư vấn thiết kế vừa là người xây/lắp không:",
     "options": [
-      "Có."
+      "Có.",
 			"Không."
     ],
     "correctIndex": 2
@@ -3248,7 +3248,7 @@
     "id": 300,
     "question": "Đối với bảo hiểm trách nhiệm nghề nghiệp kiến trúc sư, kỹ sư tư vấn, khi tổn thất phát sinh do lỗi thiết kế, lỗi thi công được phát hiện sau thời điểm kết thúc thời hạn bảo hiểm thì tổn thất đó có thuộc trách nhiệm bảo hiểm không:",
     "options": [
-      "Có."
+      "Có.",
 			"Không."
     ],
     "correctIndex": 2
@@ -3593,7 +3593,7 @@
     "id": 330,
     "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai:",
     "options": [
-			"Đại lý bảo hiểm có nghĩa vụ tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
+			"Đại lý bảo hiểm có nghĩa vụ tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm",
       "Đại lý bảo hiểm có quyền khuyến mại khách hàng dưới hình thức như giảm phí bảo hiểm, hoàn phí bảo hiểm",
       "Đại lý bảo hiểm có nghĩa vụ tham dự các khóa đào tạo, cập nhật kiến thức do doanh nghiệp bảo hiểm tổ chức",
       "Đại lý bảo hiểm được doanh nghiệp bảo hiểm ủy quyền thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm"
@@ -3713,7 +3713,7 @@
     "id": 341,
     "question": "Theo Luật Kinh doanh bảo hiểm, cá nhân đã được cấp chứng chỉ đại lý bảo hiểm nhưng không hoạt động đại lý bảo hiểm trong thời hạn bao lâu phải thực hiện việc thi chứng chỉ đại lý bảo hiểm mới trước khi hoạt động đại lý?",
     "options": [
-      "6 tháng"
+      "6 tháng",
 			"1 năm",
       "2 năm",
 			"3 năm"
@@ -3797,7 +3797,7 @@
   },
   {
     "id": 349,
-    "question": "Chọn phương án đúng điền vào chỗ ____: \"Theo Luật Kinh doanh bảo hiểm, trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm thì ______phải chịu trách nhiệm thực hiện các nghĩa vụ theo thỏa thuận trong hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết\".",
+    "question": "Chọn phương án đúng điền vào chỗ ____: \"Theo Luật Kinh doanh bảo hiểm, trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm thì ____ phải chịu trách nhiệm thực hiện các nghĩa vụ theo thỏa thuận trong hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết\".",
     "options": [
       "Doanh nghiệp bảo hiểm",
       "Đại lý bảo hiểm",
@@ -4501,13 +4501,13 @@
     "options": [
       "Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Bảo hiểm y tế",
 			"Bảo hiểm sức khỏe là bảo hiểm bắt buộc được quy định trong Luật Kinh doanh bảo hiểm",
-			"Bảo hiểm sức khỏe là bảo hiểm không bắt buộc có số tiền bảo hiểm linh hoạt tùy theo nhu cầu của người tham gia bảo hiểm",
+			"Bảo hiểm sức khỏe là bảo hiểm không bắt buộc có số tiền bảo hiểm linh hoạt tùy theo nhu cầu của người tham gia bảo hiểm"
     ],
     "correctIndex": 3
   },
 	{
     "id": 415,
-    "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng 	ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
+    "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài,không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
     "options": [
       "90 ngày.",
 			"120 ngày.",
@@ -4770,7 +4770,7 @@
     "options": [
       "Trong vòng 1h",
 			"Trong vòng 12h",
-			" Trong vòng 24h",
+			"Trong vòng 24h",
 			"Trong vòng 48h"
     ],
     "correctIndex": 3
@@ -4796,7 +4796,7 @@
     "correctIndex": 4
   },{
     "id": 442,
-    "question": "Tổn thất hoặc thiệt hại do cháy đối với các thiết bị hoặc hệ thống điện được bảo hiểm theo Điều khoản Bảo hiểm Thiết bị điện 4A/4B phát sinh do hoặc gây ra bởi sự quá tải, quá áp, đoản mạch, phóng hồ quang điện, tự nung nóng hay bị rò điện vì bất kỳ nguyên nhân nào ( ___ cả sét đánh), điền vào chỗ trống	:",
+    "question": "Tổn thất hoặc thiệt hại do cháy đối với các thiết bị hoặc hệ thống điện được bảo hiểm theo Điều khoản Bảo hiểm Thiết bị điện 4A/4B phát sinh do hoặc gây ra bởi sự quá tải, quá áp, đoản mạch, phóng hồ quang điện, tự nung nóng hay bị rò điện vì bất kỳ nguyên nhân nào (___ cả sét đánh), điền vào chỗ trống: ",
     "options": [
       "Bao gồm cả sét đánh",
 			"Không bao gồm cả sét đánh"
@@ -4806,9 +4806,9 @@
     "id": 443,
     "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm tín dụng và rủi ro tài chính là:",
     "options": [
-      "A. 20%",
-			"B. 15%",
-			"C. 10%",
+      "20%",
+			"15%",
+			"10%",
 			"5%"
     ],
     "correctIndex": 3
@@ -4897,7 +4897,7 @@
     "options": [
       "200% số tiền bảo hiểm. ",
 			"100% số tiền bảo hiểm.",
-			" 50% số tiền bảo hiểm. ",
+			"50% số tiền bảo hiểm. ",
 			"20% số tiền bảo hiểm."
     ],
     "correctIndex": 2
