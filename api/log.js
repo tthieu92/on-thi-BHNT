@@ -3,8 +3,8 @@ export default async function handler(req, res) {
     return res.status(405).json({ message: 'Method not allowed' });
   }
 
-  const { user, score, duration, submittedAt } = req.body;
-  if (!user || !score || !duration || !submittedAt) {
+  const { user, exam, score, duration, submittedAt } = req.body;
+  if (!user || !exam || !score || !duration || !submittedAt) {
     return res.status(400).json({ message: 'Missing fields' });
   }
 

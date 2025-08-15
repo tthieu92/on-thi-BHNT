@@ -225,6 +225,7 @@ async function finish(){
   // Gửi log
   const payload = {
     user: localStorage.getItem('username') || 'Unknown',
+    exam: examId,
     score: `${c}/${questions.value.length}`,
     duration: `${durMin} phút`,
     submittedAt: formatSubmittedAt(end)
