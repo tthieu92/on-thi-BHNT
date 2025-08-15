@@ -9,8 +9,7 @@ export default async function handler(req, res) {
   if (!user || !score || !duration || !submittedAt) {
     return res.status(400).json({ message: 'Missing fields' });
   }
-
-  const owner = 'hieuicttn';
+  const owner = 'tthieu92';
   const repo = 'on-thi-BHNT';
   const path = 'logs.txt';
   const token = process.env.GITHUB_TOKEN;
