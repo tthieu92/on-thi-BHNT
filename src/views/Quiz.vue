@@ -58,7 +58,7 @@
           <h4>Các câu sai ({{ wrongList.length }})</h4>
           <div v-for="w in wrongList" :key="w.index" class="wrong-item">
             <div class="w-q"><strong>Câu {{ w.index }}:</strong> {{ w.question }}</div>
-            <div class="w-ans">Đáp án bạn chọn: <strong>{{ showOpt(w.chosen) }}</strong></div>
+            <div class="w-ans">Đáp án bạn chọn: <strong>{{ showCorrect(w.index, w.chosen) }}</strong></div>
             <div class="w-correct">Đáp án đúng: <strong>{{ showCorrect(w.index, w.correct) }}</strong></div>
           </div>
         </div>
