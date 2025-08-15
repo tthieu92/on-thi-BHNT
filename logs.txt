@@ -20,3 +20,4 @@ User: U | Score: 24/40 | Duration: 19 phút | SubmittedAt: 2025/08/15 21h32
 User: ỷang | Score: 29/40 | Duration: 10 phút | SubmittedAt: 2025/08/15 21h54
 User: ỷang | Score: 28/40 | Duration: 13 phút | SubmittedAt: 2025/08/15 22h07
 User: ỷang | Score: 0/40 | Duration: 0 phút | SubmittedAt: 2025/08/15 22h08
+User: ỷang | Score: 3/40 | Duration: 1 phút | SubmittedAt: 2025/08/15 22h28
