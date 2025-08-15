@@ -1,5 +1,3 @@
-import fetch from 'node-fetch';
-
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ message: 'Method not allowed' });
@@ -9,6 +7,7 @@ export default async function handler(req, res) {
   if (!user || !score || !duration || !submittedAt) {
     return res.status(400).json({ message: 'Missing fields' });
   }
+
   const owner = 'tthieu92';
   const repo = 'on-thi-BHNT';
   const path = 'logs.txt';
@@ -18,7 +17,7 @@ export default async function handler(req, res) {
   const newLog = `User: ${user} | Score: ${score} | Duration: ${duration} | SubmittedAt: ${submittedAt}\n`;
 
   try {
-    // Lấy file hiện tại từ GitHub
+    // 1️⃣ Lấy file hiện tại (nếu chưa có sẽ tạo mới)
     let content = '';
     let sha = null;
     const resp = await fetch(apiUrl, {
@@ -27,14 +26,16 @@ export default async function handler(req, res) {
 
     if (resp.ok) {
       const data = await resp.json();
-      content = Buffer.from(data.content, 'base64').toString('utf-8');
+      if (data.content) {
+        content = Buffer.from(data.content, 'base64').toString('utf-8');
+      }
       sha = data.sha;
     }
 
-    // Thêm log mới
+    // 2️⃣ Append log mới
     const updatedContent = content + newLog;
 
-    // Gửi commit lên GitHub
+    // 3️⃣ Commit lại lên GitHub
     const putResp = await fetch(apiUrl, {
       method: 'PUT',
       headers: {
@@ -49,7 +50,8 @@ export default async function handler(req, res) {
     });
 
     if (!putResp.ok) {
-      throw new Error(`GitHub API error: ${putResp.statusText}`);
+      const errText = await putResp.text();
+      throw new Error(`GitHub API error: ${putResp.status} - ${errText}`);
     }
 
     return res.status(200).json({ message: 'Log saved to GitHub' });
